@@ -1,0 +1,13 @@
+# Libraries needed to run lab2_survival_analysis.ipynb
+# Tested with Python 3.11 / 3.12, lifelines 0.30, scikit-learn 1.8 and pandas 2.3.
+# For exact reproducibility, replace these lines with the versions of your own
+# environment (run `pip freeze` and copy the lines of these libraries).
+ucimlrepo
+lifelines>=0.30
+scikit-learn>=1.2
+pandas>=2.0
+numpy
+scipy
+matplotlib
+seaborn
+jupyter
